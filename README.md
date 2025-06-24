@@ -115,10 +115,6 @@ Docs will be available at: `target/site/apidocs/index.html`
 
 ---
 
-## Contributing
-Please read `CONTRIBUTING.md` for details on how to contribute.
-
----
 
 ## Authors
 * **Daniel Aldana** - [GitHub](https://github.com/Daniel-Aldana10)
